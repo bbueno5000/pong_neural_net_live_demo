@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pong_neural_net_live_demo", "pong_neural_net_live_demo\pong_neural_net_live_demo.pyproj", "{E9828905-10F3-438C-BC98-DF6D2A5A05B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9828905-10F3-438C-BC98-DF6D2A5A05B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9828905-10F3-438C-BC98-DF6D2A5A05B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D5EE489-322D-4709-B0E9-48CD7B82FF60}
+	EndGlobalSection
+EndGlobal
